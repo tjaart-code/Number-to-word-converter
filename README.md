@@ -1,5 +1,4 @@
 # Number to word converter.
-### @author Symnium by Tjaart
 
 ## Run the Program
 
